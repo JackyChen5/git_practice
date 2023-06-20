@@ -38,5 +38,6 @@ function formatPrediction(pred) {
     console.log(formatted)
 }
 
+//Calls the function
 
 formatPrediction(personalPrediction); 
